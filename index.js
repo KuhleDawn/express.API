@@ -58,8 +58,8 @@ app.get('/api/greet/:username', function(req, res){
     });
     
 
+    const PORT = process.env.PORT || 4009;
 
-const PORT = 4009
 
 
 app.listen(4009, function(){
