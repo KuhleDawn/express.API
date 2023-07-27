@@ -1,0 +1,9 @@
+body {
+    background-color: rgb(36, 145, 108);
+    color: black;
+}
+
+.new {
+    padding: 1em;
+    border-radius: 0.2em;
+}
